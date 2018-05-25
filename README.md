@@ -1,6 +1,3 @@
-#### Conteúdo do Repositório
-Este repositório possui as respostas do teste que está no arquivo de nome 'Avaliação Java - Técnica.pdf' que encontra-se na pasta raiz do projeto
-
 #### Respostas das questões objetivas (1-7) do teste para o processo seletivo Analista de Sistemas S2IT
 
 1. A
